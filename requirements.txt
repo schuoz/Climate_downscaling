@@ -1,0 +1,15 @@
+# Deep Learning
+torch>=2.0.0
+torchvision
+
+# Data processing
+numpy
+scipy
+pandas
+xarray
+netCDF4
+rioxarray
+
+# Tools
+psutil
+tqdm
